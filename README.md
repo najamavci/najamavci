@@ -34,7 +34,7 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/naja-muković-avci)
+- [LinkedIn](www.linkedin.com/in/naja-mukovic-avci)
 - [Email](najamukovic@gmail.com)
 
 ## 💬 Ask Me About

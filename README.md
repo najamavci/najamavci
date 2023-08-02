@@ -39,11 +39,6 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 | ![TestRail](https://img.shields.io/badge/TestRail-1A6FEB?style=flat-square&logo=testrail&logoColor=white) | ![TestComplete](https://img.shields.io/badge/TestComplete-0C7F65?style=flat-square&logo=testcomplete&logoColor=white) | ![SoapUI](https://img.shields.io/badge/SoapUI-4E8B3D?style=flat-square&logo=soapui&logoColor=white) |
 | ![JIRA Xray](https://img.shields.io/badge/JIRA%20Xray-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) | ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najamavci&show_icons=true&hide=prs,contribs&count_private=true&theme=radical)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najamavci&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
 
@@ -56,13 +51,6 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 
 I'm open to discussing various topics related to Quality Assurance, Test Automation, Agile methodologies, and Continuous Integration.
 
-## 😄 Pronouns
-
-She/Her
-
-## 📫 How to Reach Me
-
-The best way to get in touch with me is through GitHub or via email at najamukovic@gmail.com.
 
 ## ⚡ Fun Fact
 

@@ -37,9 +37,7 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog-artifactory&logoColor=white) |
 | ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white) | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white) |
 | ![TestRail](https://img.shields.io/badge/TestRail-1A6FEB?style=flat-square&logo=testrail&logoColor=white) | ![TestComplete](https://img.shields.io/badge/TestComplete-0C7F65?style=flat-square&logo=testcomplete&logoColor=white) | ![SoapUI](https://img.shields.io/badge/SoapUI-4E8B3D?style=flat-square&logo=soapui&logoColor=white) |
-| ![JIRA Xray](https://img.shields.io/badge/JIRA%20Xray-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) | ![CircleCI
-
-## 🌟 GitHub Stats
+| ![JIRA Xray](https://img.shields.io/badge/JIRA%20Xray-0052CC?style=flat-square&logo=jira&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) | ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najamavci&show_icons=true&hide=prs,contribs&count_private=true&theme=radical)
 

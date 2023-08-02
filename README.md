@@ -20,9 +20,7 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 
 ## 📚 Featured Projects
 
-1. [Project Name](Link to the repository) - Short description of the project.
-2. [Project Name](Link to the repository) - Short description of the project.
-3. [Project Name](Link to the repository) - Short description of the project.
+1. [react-shopping-cart]((https://github.com/najamavci/react-shopping-cart)) - Cypress UI and API Automation Testing project
 
 ## 🌟 GitHub Stats
 

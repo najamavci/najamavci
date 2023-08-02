@@ -51,10 +51,10 @@ The best way to get in touch with me is through GitHub or via email at najamukov
 
 I love creative writing and have contributed to the field of financial journalism in the past.
 
+## Technical Skills
 
-
-| Programming Languages | Libraries           | Tools              |
-|----------------------|---------------------|--------------------|
+| Programming Languages  | Libraries           | Tools              |
+|------------------------|---------------------|--------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-642978?style=flat-square&logo=rest-assured&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
@@ -62,6 +62,5 @@ I love creative writing and have contributed to the field of financial journalis
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![TestNG](https://img.shields.io/badge/TestNG-007272?style=flat-square&logo=testng&logoColor=white) | ![Appium](https://img.shields.io/badge/Appium-746E72?style=flat-square&logo=appium&logoColor=white) |
 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ![Selenium Grid](https://img.shields.io/badge/Selenium%20Grid-D7483B?style=flat-square&logo=selenium-grid&logoColor=white) |
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-|  | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
-|  | ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white) |
-|  | ![TestNG](https://img.shields.io/badge/TestNG-007272?style=flat-square&logo=testng&logoColor=white) | ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog-artifactory&
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog-artifactory&logoColor=white) |
+| ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white) |  |

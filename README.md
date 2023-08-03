@@ -21,7 +21,8 @@ I am an ISTQB Certified Test Automation Engineer with over five years of experie
 ## 📚 Featured Projects
 
 1. [react-shopping-cart](https://github.com/najamavci/react-shopping-cart) - Cypress UI and API Automation Testing project
-
+2. [Restful-Booking-Platform-Java-BDD-Project](https://github.com/najamavci/Restful-Booking-Platform-Java-BDD-Project)- Java Maven Bdd Test Project
+   
 
 ## Technical Skills
 

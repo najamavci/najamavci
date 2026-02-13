@@ -6,12 +6,6 @@ I'm Naja Mukovic Avci, a passionate Quality Assurance Automation Engineer from S
 
 I am an ISTQB Certified Test Automation Engineer with over seven years of experience in Backend and Frontend Automation and Manual Testing, as well as Mobile Testing. I am detail-oriented, objective in reporting defects, and motivated to maintain good communication with the team and stakeholders to ensure the highest quality of the product. My main goal is to boost confidence in the quality of the software and prevent unexpected issues in production.
 
-## 🌱 I'm Currently Learning
-
-- Exploring advanced automation testing tools like Cypress and Playwright.
-- Deepening my knowledge of programming languages, especially Python and JavaScript.
-- Expanding my understanding of Continuous Integration and Delivery (CI/CD) practices.
-
 ## 🔭 I'm Working On
 
 - Currently developing a comprehensive automated test suite for a web application using Selenium and Java.
